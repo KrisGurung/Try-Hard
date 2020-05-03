@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {                    //Changes were made in "scripts" to make it run on Heroku's URL.
+  "scripts": {                    
     "start": "node src/app.js"
   },
   "keywords": [],
